@@ -122,7 +122,6 @@
   <project path="prebuilts/tools-lineage" name="android_prebuilts_tools-lineage" clone-depth="1" remote="los" />
   
   <!-- System Repos -->
-  <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="los" revision="lineage-17.1" />
   <project path="system/qcom" name="android_system_qcom" remote="los" revision="lineage-17.1" />
 
   <!-- Vendor -->
